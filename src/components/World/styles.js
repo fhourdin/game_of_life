@@ -9,8 +9,8 @@ const useStyles = makeStyles((theme) => ({
   },
   root: {
     position: 'relative',
-    height: theme.spacing(40),
-    width: theme.spacing(40),
+    height: theme.spacing(60),
+    width: theme.spacing(60),
     borderBottom: `1px solid ${theme.palette.common.lightgreen}`,
     borderRight: `1px solid ${theme.palette.common.lightgreen}`,
   },
